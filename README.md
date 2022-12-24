@@ -1,4 +1,14 @@
 ### Hi there 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=%20SangChoon's%20GitHub&fontSize=70" />
+<h3>💡Tech Stack💡</h3>
+</div>
+Tech Stack
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sangchoonjung)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangchoonjung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **sangchoonjung/sangchoonjung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
